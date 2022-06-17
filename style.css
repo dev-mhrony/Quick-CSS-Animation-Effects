@@ -27,6 +27,19 @@ body{
     border-radius: 50%;
     animation: animate 3s linear infinite;
 }
+.circle2{
+    width: 200px;
+    height: 200px;
+    animation: animate 6s linear infinite;
+
+}
+
+.circle3{
+    width: 100px;
+    height: 100px;
+    animation: animate 3s linear infinite;
+
+}
 
 @keyframes animate{
     0%{
